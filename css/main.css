@@ -274,3 +274,6 @@ footer a:not(.nav-link) {
   color: #fff;;
   border: 2px solid black;
 }
+.profile-radius{
+  border-radius: 50% !important;
+}
